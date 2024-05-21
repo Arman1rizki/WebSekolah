@@ -21,13 +21,13 @@
 	 * Creates a carousel.
 	 * @class The Owl Carousel.
 	 * @public
-	 * @param {HTMLElement|jQuery} element - The element to create the carousel for.
+	 * @param {HTMLElement|jQuery} element -  
 	 * @param {Object} [options] - The options
 	 */
 	function Owl(element, options) {
 
 		/**
-		 * Current settings for the carousel.
+		 * 
 		 * @public
 		 */
 		this.settings = null;
